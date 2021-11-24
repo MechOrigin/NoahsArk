@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x65b7b2f7f70e78c91d15903299539a21fbc913ce",
+  "SCAN_LINK": "https://polygonscan.com/address/0x65b7b2f7f70e78c91d15903299539a21fbc913ce",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Noahs Ark",
+  "SYMBOL": "NA",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 24500000000000000,
+  "DISPLAY_COST": 49,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/noahsark-1",
+  "SHOW_BACKGROUND": true
+}

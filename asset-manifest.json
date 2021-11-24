@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NoahsArk/static/css/main.586e4904.chunk.css",
+    "main.js": "/NoahsArk/static/js/main.d5567c27.chunk.js",
+    "main.js.map": "/NoahsArk/static/js/main.d5567c27.chunk.js.map",
+    "runtime-main.js": "/NoahsArk/static/js/runtime-main.5e5194b2.js",
+    "runtime-main.js.map": "/NoahsArk/static/js/runtime-main.5e5194b2.js.map",
+    "static/js/2.2af86fad.chunk.js": "/NoahsArk/static/js/2.2af86fad.chunk.js",
+    "static/js/2.2af86fad.chunk.js.map": "/NoahsArk/static/js/2.2af86fad.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/NoahsArk/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/NoahsArk/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/NoahsArk/index.html",
+    "static/css/main.586e4904.chunk.css.map": "/NoahsArk/static/css/main.586e4904.chunk.css.map",
+    "static/js/2.2af86fad.chunk.js.LICENSE.txt": "/NoahsArk/static/js/2.2af86fad.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/NoahsArk/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e5194b2.js",
+    "static/js/2.2af86fad.chunk.js",
+    "static/css/main.586e4904.chunk.css",
+    "static/js/main.d5567c27.chunk.js"
+  ]
+}
